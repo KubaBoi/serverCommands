@@ -10,11 +10,14 @@ scoreboard objectives add posX dummy
 scoreboard objectives add posY dummy
 scoreboard objectives add posZ dummy
 
-scoreboard objectives remove Position
-scoreboard objectives add Position dummy
+scoreboard objectives remove Position0
+scoreboard objectives add Position0 dummy
 
-scoreboard objectives setdisplay sidebar.team.blue Position 
-scoreboard objectives setdisplay sidebar.team.red Position 
+scoreboard objectives remove Position1
+scoreboard objectives add Position1 dummy
+
+scoreboard objectives setdisplay sidebar.team.blue Position0
+scoreboard objectives setdisplay sidebar.team.red Position1
 
 scoreboard objectives add health health
 scoreboard objectives setdisplay belowName health
