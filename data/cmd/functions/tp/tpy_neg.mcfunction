@@ -1,65 +1,65 @@
-execute as @s[scores={tempPos=-64}] at @s run tp ~ -64 ~
-execute as @s[scores={tempPos=-63}] at @s run tp ~ -63 ~
-execute as @s[scores={tempPos=-62}] at @s run tp ~ -62 ~
-execute as @s[scores={tempPos=-61}] at @s run tp ~ -61 ~
-execute as @s[scores={tempPos=-60}] at @s run tp ~ -60 ~
-execute as @s[scores={tempPos=-59}] at @s run tp ~ -59 ~
-execute as @s[scores={tempPos=-58}] at @s run tp ~ -58 ~
-execute as @s[scores={tempPos=-57}] at @s run tp ~ -57 ~
-execute as @s[scores={tempPos=-56}] at @s run tp ~ -56 ~
-execute as @s[scores={tempPos=-55}] at @s run tp ~ -55 ~
-execute as @s[scores={tempPos=-54}] at @s run tp ~ -54 ~
-execute as @s[scores={tempPos=-53}] at @s run tp ~ -53 ~
-execute as @s[scores={tempPos=-52}] at @s run tp ~ -52 ~
-execute as @s[scores={tempPos=-51}] at @s run tp ~ -51 ~
-execute as @s[scores={tempPos=-50}] at @s run tp ~ -50 ~
-execute as @s[scores={tempPos=-49}] at @s run tp ~ -49 ~
-execute as @s[scores={tempPos=-48}] at @s run tp ~ -48 ~
-execute as @s[scores={tempPos=-47}] at @s run tp ~ -47 ~
-execute as @s[scores={tempPos=-46}] at @s run tp ~ -46 ~
-execute as @s[scores={tempPos=-45}] at @s run tp ~ -45 ~
-execute as @s[scores={tempPos=-44}] at @s run tp ~ -44 ~
-execute as @s[scores={tempPos=-43}] at @s run tp ~ -43 ~
-execute as @s[scores={tempPos=-42}] at @s run tp ~ -42 ~
-execute as @s[scores={tempPos=-41}] at @s run tp ~ -41 ~
-execute as @s[scores={tempPos=-40}] at @s run tp ~ -40 ~
-execute as @s[scores={tempPos=-39}] at @s run tp ~ -39 ~
-execute as @s[scores={tempPos=-38}] at @s run tp ~ -38 ~
-execute as @s[scores={tempPos=-37}] at @s run tp ~ -37 ~
-execute as @s[scores={tempPos=-36}] at @s run tp ~ -36 ~
-execute as @s[scores={tempPos=-35}] at @s run tp ~ -35 ~
-execute as @s[scores={tempPos=-34}] at @s run tp ~ -34 ~
-execute as @s[scores={tempPos=-33}] at @s run tp ~ -33 ~
-execute as @s[scores={tempPos=-32}] at @s run tp ~ -32 ~
-execute as @s[scores={tempPos=-31}] at @s run tp ~ -31 ~
-execute as @s[scores={tempPos=-30}] at @s run tp ~ -30 ~
-execute as @s[scores={tempPos=-29}] at @s run tp ~ -29 ~
-execute as @s[scores={tempPos=-28}] at @s run tp ~ -28 ~
-execute as @s[scores={tempPos=-27}] at @s run tp ~ -27 ~
-execute as @s[scores={tempPos=-26}] at @s run tp ~ -26 ~
-execute as @s[scores={tempPos=-25}] at @s run tp ~ -25 ~
-execute as @s[scores={tempPos=-24}] at @s run tp ~ -24 ~
-execute as @s[scores={tempPos=-23}] at @s run tp ~ -23 ~
-execute as @s[scores={tempPos=-22}] at @s run tp ~ -22 ~
-execute as @s[scores={tempPos=-21}] at @s run tp ~ -21 ~
-execute as @s[scores={tempPos=-20}] at @s run tp ~ -20 ~
-execute as @s[scores={tempPos=-19}] at @s run tp ~ -19 ~
-execute as @s[scores={tempPos=-18}] at @s run tp ~ -18 ~
-execute as @s[scores={tempPos=-17}] at @s run tp ~ -17 ~
-execute as @s[scores={tempPos=-16}] at @s run tp ~ -16 ~
-execute as @s[scores={tempPos=-15}] at @s run tp ~ -15 ~
-execute as @s[scores={tempPos=-14}] at @s run tp ~ -14 ~
-execute as @s[scores={tempPos=-13}] at @s run tp ~ -13 ~
-execute as @s[scores={tempPos=-12}] at @s run tp ~ -12 ~
-execute as @s[scores={tempPos=-11}] at @s run tp ~ -11 ~
-execute as @s[scores={tempPos=-10}] at @s run tp ~ -10 ~
-execute as @s[scores={tempPos=-9}] at @s run tp ~ -9 ~
-execute as @s[scores={tempPos=-8}] at @s run tp ~ -8 ~
-execute as @s[scores={tempPos=-7}] at @s run tp ~ -7 ~
-execute as @s[scores={tempPos=-6}] at @s run tp ~ -6 ~
-execute as @s[scores={tempPos=-5}] at @s run tp ~ -5 ~
-execute as @s[scores={tempPos=-4}] at @s run tp ~ -4 ~
-execute as @s[scores={tempPos=-3}] at @s run tp ~ -3 ~
-execute as @s[scores={tempPos=-2}] at @s run tp ~ -2 ~
-execute as @s[scores={tempPos=-1}] at @s run tp ~ -1 ~
-execute as @s[scores={tempPos=0}] at @s run tp ~ 0 ~
+execute as @s[scores={tempPos=-64}] as @s in minecraft:overworld run tp ~ -64 ~
+execute as @s[scores={tempPos=-63}] as @s in minecraft:overworld run tp ~ -63 ~
+execute as @s[scores={tempPos=-62}] as @s in minecraft:overworld run tp ~ -62 ~
+execute as @s[scores={tempPos=-61}] as @s in minecraft:overworld run tp ~ -61 ~
+execute as @s[scores={tempPos=-60}] as @s in minecraft:overworld run tp ~ -60 ~
+execute as @s[scores={tempPos=-59}] as @s in minecraft:overworld run tp ~ -59 ~
+execute as @s[scores={tempPos=-58}] as @s in minecraft:overworld run tp ~ -58 ~
+execute as @s[scores={tempPos=-57}] as @s in minecraft:overworld run tp ~ -57 ~
+execute as @s[scores={tempPos=-56}] as @s in minecraft:overworld run tp ~ -56 ~
+execute as @s[scores={tempPos=-55}] as @s in minecraft:overworld run tp ~ -55 ~
+execute as @s[scores={tempPos=-54}] as @s in minecraft:overworld run tp ~ -54 ~
+execute as @s[scores={tempPos=-53}] as @s in minecraft:overworld run tp ~ -53 ~
+execute as @s[scores={tempPos=-52}] as @s in minecraft:overworld run tp ~ -52 ~
+execute as @s[scores={tempPos=-51}] as @s in minecraft:overworld run tp ~ -51 ~
+execute as @s[scores={tempPos=-50}] as @s in minecraft:overworld run tp ~ -50 ~
+execute as @s[scores={tempPos=-49}] as @s in minecraft:overworld run tp ~ -49 ~
+execute as @s[scores={tempPos=-48}] as @s in minecraft:overworld run tp ~ -48 ~
+execute as @s[scores={tempPos=-47}] as @s in minecraft:overworld run tp ~ -47 ~
+execute as @s[scores={tempPos=-46}] as @s in minecraft:overworld run tp ~ -46 ~
+execute as @s[scores={tempPos=-45}] as @s in minecraft:overworld run tp ~ -45 ~
+execute as @s[scores={tempPos=-44}] as @s in minecraft:overworld run tp ~ -44 ~
+execute as @s[scores={tempPos=-43}] as @s in minecraft:overworld run tp ~ -43 ~
+execute as @s[scores={tempPos=-42}] as @s in minecraft:overworld run tp ~ -42 ~
+execute as @s[scores={tempPos=-41}] as @s in minecraft:overworld run tp ~ -41 ~
+execute as @s[scores={tempPos=-40}] as @s in minecraft:overworld run tp ~ -40 ~
+execute as @s[scores={tempPos=-39}] as @s in minecraft:overworld run tp ~ -39 ~
+execute as @s[scores={tempPos=-38}] as @s in minecraft:overworld run tp ~ -38 ~
+execute as @s[scores={tempPos=-37}] as @s in minecraft:overworld run tp ~ -37 ~
+execute as @s[scores={tempPos=-36}] as @s in minecraft:overworld run tp ~ -36 ~
+execute as @s[scores={tempPos=-35}] as @s in minecraft:overworld run tp ~ -35 ~
+execute as @s[scores={tempPos=-34}] as @s in minecraft:overworld run tp ~ -34 ~
+execute as @s[scores={tempPos=-33}] as @s in minecraft:overworld run tp ~ -33 ~
+execute as @s[scores={tempPos=-32}] as @s in minecraft:overworld run tp ~ -32 ~
+execute as @s[scores={tempPos=-31}] as @s in minecraft:overworld run tp ~ -31 ~
+execute as @s[scores={tempPos=-30}] as @s in minecraft:overworld run tp ~ -30 ~
+execute as @s[scores={tempPos=-29}] as @s in minecraft:overworld run tp ~ -29 ~
+execute as @s[scores={tempPos=-28}] as @s in minecraft:overworld run tp ~ -28 ~
+execute as @s[scores={tempPos=-27}] as @s in minecraft:overworld run tp ~ -27 ~
+execute as @s[scores={tempPos=-26}] as @s in minecraft:overworld run tp ~ -26 ~
+execute as @s[scores={tempPos=-25}] as @s in minecraft:overworld run tp ~ -25 ~
+execute as @s[scores={tempPos=-24}] as @s in minecraft:overworld run tp ~ -24 ~
+execute as @s[scores={tempPos=-23}] as @s in minecraft:overworld run tp ~ -23 ~
+execute as @s[scores={tempPos=-22}] as @s in minecraft:overworld run tp ~ -22 ~
+execute as @s[scores={tempPos=-21}] as @s in minecraft:overworld run tp ~ -21 ~
+execute as @s[scores={tempPos=-20}] as @s in minecraft:overworld run tp ~ -20 ~
+execute as @s[scores={tempPos=-19}] as @s in minecraft:overworld run tp ~ -19 ~
+execute as @s[scores={tempPos=-18}] as @s in minecraft:overworld run tp ~ -18 ~
+execute as @s[scores={tempPos=-17}] as @s in minecraft:overworld run tp ~ -17 ~
+execute as @s[scores={tempPos=-16}] as @s in minecraft:overworld run tp ~ -16 ~
+execute as @s[scores={tempPos=-15}] as @s in minecraft:overworld run tp ~ -15 ~
+execute as @s[scores={tempPos=-14}] as @s in minecraft:overworld run tp ~ -14 ~
+execute as @s[scores={tempPos=-13}] as @s in minecraft:overworld run tp ~ -13 ~
+execute as @s[scores={tempPos=-12}] as @s in minecraft:overworld run tp ~ -12 ~
+execute as @s[scores={tempPos=-11}] as @s in minecraft:overworld run tp ~ -11 ~
+execute as @s[scores={tempPos=-10}] as @s in minecraft:overworld run tp ~ -10 ~
+execute as @s[scores={tempPos=-9}] as @s in minecraft:overworld run tp ~ -9 ~
+execute as @s[scores={tempPos=-8}] as @s in minecraft:overworld run tp ~ -8 ~
+execute as @s[scores={tempPos=-7}] as @s in minecraft:overworld run tp ~ -7 ~
+execute as @s[scores={tempPos=-6}] as @s in minecraft:overworld run tp ~ -6 ~
+execute as @s[scores={tempPos=-5}] as @s in minecraft:overworld run tp ~ -5 ~
+execute as @s[scores={tempPos=-4}] as @s in minecraft:overworld run tp ~ -4 ~
+execute as @s[scores={tempPos=-3}] as @s in minecraft:overworld run tp ~ -3 ~
+execute as @s[scores={tempPos=-2}] as @s in minecraft:overworld run tp ~ -2 ~
+execute as @s[scores={tempPos=-1}] as @s in minecraft:overworld run tp ~ -1 ~
+execute as @s[scores={tempPos=0}] as @s in minecraft:overworld run tp ~ 0 ~

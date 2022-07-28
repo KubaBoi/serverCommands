@@ -1,3 +1,4 @@
+
 tellraw @a {"text": ""}
 tellraw @a {"text": "====HELP====", "color": "#ff0000"}
 tellraw @a {"text": "Usage:"}

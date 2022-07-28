@@ -36,7 +36,7 @@ class TpBuilder:
 
         for i in rng:
             coords = self.nth_repl("~ ~ ~", "~", str(i), pos)
-            cmds += "execute as @s[scores={tempPos=" + str(i) + "}] at @s run tp " + coords + "\n"
+            cmds += "execute as @s[scores={tempPos=" + str(i) + "}] as @s in minecraft:overworld run tp " + coords + "\n"
 
         with open(os.path.join(self.pth, f"{data[2]}_{name}.mcfunction"), "w") as f:
             f.write(cmds)
