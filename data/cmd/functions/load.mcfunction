@@ -12,7 +12,9 @@ scoreboard objectives add posZ dummy
 
 scoreboard objectives remove Position
 scoreboard objectives add Position dummy
-scoreboard objectives setdisplay sidebar Position 
+
+scoreboard objectives setdisplay sidebar.team.blue Position 
+scoreboard objectives setdisplay sidebar.team.red Position 
 
 scoreboard objectives add health health
 scoreboard objectives setdisplay belowName health
