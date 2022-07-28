@@ -14,7 +14,13 @@ scoreboard objectives remove Position
 scoreboard objectives add Position dummy
 scoreboard objectives setdisplay sidebar Position 
 
-gamerule sendCommandFeedback false
+scoreboard objectives add health health
+scoreboard objectives setdisplay belowName health
+
+scoreboard objectives add death deathCount
+scoreboard objectives setdisplay list death
+
+#gamerule sendCommandFeedback false
 
 tellraw @a {"text": "==========="}
 tellraw @a {"text": "ServerCommands datapack loaded", "color": "#00FF00"}
