@@ -10,14 +10,14 @@ scoreboard objectives add posX dummy
 scoreboard objectives add posY dummy
 scoreboard objectives add posZ dummy
 
-scoreboard objectives remove Position0
-scoreboard objectives add Position0 dummy
+scoreboard objectives remove Svagrid
+scoreboard objectives add Svagrid dummy
 
-scoreboard objectives remove Position1
-scoreboard objectives add Position1 dummy
+scoreboard objectives remove JoVitaa
+scoreboard objectives add JoVitaa dummy
 
-scoreboard objectives setdisplay sidebar.team.blue Position0
-scoreboard objectives setdisplay sidebar.team.red Position1
+scoreboard objectives setdisplay sidebar.team.blue Svagrid
+scoreboard objectives setdisplay sidebar.team.red JoVitaa
 
 scoreboard objectives add health health
 scoreboard objectives setdisplay belowName health
