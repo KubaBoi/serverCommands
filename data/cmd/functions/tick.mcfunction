@@ -1,1 +1,1 @@
-execute as @a at @a run function cmd:showposition
+execute as @p at @p run function cmd:showposition
