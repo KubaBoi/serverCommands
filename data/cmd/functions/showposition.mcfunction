@@ -21,3 +21,11 @@ execute store result score JoVitaa posZ run data get entity JoVitaa Pos[2]
 scoreboard players operation X JoVitaa = JoVitaa posX
 scoreboard players operation Y JoVitaa = JoVitaa posY
 scoreboard players operation Z JoVitaa = JoVitaa posZ
+
+execute store result score Zeminem posX run data get entity Zeminem Pos[0]
+execute store result score Zeminem posY run data get entity Zeminem Pos[1]
+execute store result score Zeminem posZ run data get entity Zeminem Pos[2]
+
+scoreboard players operation X Zeminem = Zeminem posX
+scoreboard players operation Y Zeminem = Zeminem posY
+scoreboard players operation Z Zeminem = Zeminem posZ
